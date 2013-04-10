@@ -45,5 +45,5 @@
 
 
   <access origin="*"/>
-
+<id> com.e2infosystems.CATIEApp </id>
 </widget>
